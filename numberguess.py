@@ -1,6 +1,6 @@
 import random
 
-from art import logo
+from number_guess_art import logo
 print(logo)
 
 def number_guess_game():
